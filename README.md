@@ -22,7 +22,10 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white/>
       <img src="https://www.vectorlogo.zone/logos/sveltetechnology.svg" alt="svelte" width="65" height="65"/> 
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
