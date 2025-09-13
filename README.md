@@ -22,9 +22,10 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white/>
+      <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white/>
       <img src="https://www.vectorlogo.zone/logos/sveltetechnology.svg" alt="svelte" width="65" height="65"/> 
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white/>
+      <img src= https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/>
+      <img src= https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="55" height="65"/>
@@ -36,7 +37,6 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-icon.svg" alt="pm2" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src= https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/>
 </p>
 
 ---
